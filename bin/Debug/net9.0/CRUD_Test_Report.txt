@@ -1,0 +1,14 @@
+📌 **Full Post CRUD Test Report**
+Test Run Time: 3/13/2025 4:09:56 PM
+-------------------------------------------------
+📝 **Create Operation:**
+- URL: https://jsonplaceholder.typicode.com/posts
+- Status: Success
+- Status Code: 201
+- JSON Body: {
+  "userId": 1,
+  "id": 101,
+  "title": "New Post Title",
+  "body": "This is a new post body"
+}
+-------------------------------------------------

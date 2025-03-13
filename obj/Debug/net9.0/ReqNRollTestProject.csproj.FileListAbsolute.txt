@@ -162,6 +162,7 @@ E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRollTestProject.Gene
 E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRollTestProject.AssemblyInfoInputs.cache
 E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRollTestProject.AssemblyInfo.cs
 E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRollTestProject.csproj.CoreCompileInputs.cache
+E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRollTestProject.sourcelink.json
 E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRoll.21AFB5A6.Up2Date
 E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\ReqNRollTestProject.dll
 E:\reqnrollproject\ReqNRollTestProject\obj\Debug\net9.0\refint\ReqNRollTestProject.dll

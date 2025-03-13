@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReqNRollTestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35797754de94e7cef4fd238765c31207efb4de34")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReqNRollTestProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReqNRollTestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
